@@ -1,11 +1,11 @@
 ---
 title: "Technical Report on Backdoors"
 collection: teaching
-# type: "Undergraduate course"
-permalink: '/files/Technical_Report_BackDoor_Talha.pdf'
-# venue: "University 1, Department"
-# date: 2014-01-01
-# location: "City, Country"
+type: ""
+permalink: 'https://drive.google.com/file/d/14ckhbv4EBMHRyJcK3a1OWr0UsGZWZ1UO/view?usp=drive_link'
+venue: ""
+date: 
+location: ""
 ---
 
 Implementation of multiple backdoor attakcs/defenses.
