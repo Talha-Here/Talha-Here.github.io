@@ -8,3 +8,4 @@ permalink: '/files/Nerf-pytorch-implementation_Talha.pdf'
 # location: "City, Country"
 ---
 
+Implemented nerf pytorch on custom dataset.

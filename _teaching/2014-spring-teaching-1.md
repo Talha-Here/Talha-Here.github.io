@@ -7,3 +7,5 @@ permalink: '/files/Technical_Report_BackDoor_Talha.pdf'
 # date: 2014-01-01
 # location: "City, Country"
 ---
+
+Implementation of multiple backdoor attakcs/defenses.
