@@ -22,7 +22,7 @@ repository               : "Talha-Here/Talha-Here.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myprofile.png"
+  avatar           : "myprofile.jpg"
   name             : "Talha H Khan"
   pronouns         : "he/his"  
   bio              : "Computer Engineer"
