@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: 'https://drive.google.com/file/d/1GRx89VpA3lG1S7Lq0PrOgqKacraH_9sE/view?usp=drive_link'
 venue: ""
-date: 
+date: 2025-05-08
 location: ""
 ---
 
