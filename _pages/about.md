@@ -61,7 +61,8 @@ To pursue a **PhD** and contribute to cutting-edge research in **AI/ML, security
 
 ---
 
-✨ *"I believe challenges don’t limit us—they shape us. Just as Arunima Sinha climbed Everest with resilience, I climb my own mountains in research, one step at a time."*  
-
+<!-- ✨ *"I believe challenges don’t limit us—they shape us. Just as Arunima Sinha climbed Everest with resilience, I climb my own mountains in research, one step at a time."*   -->
+⚽ Apart from academics and research, I enjoy playing **football** and **padel** in my spare time.  
+🤝 I actively volunteer every week in **CSR initiatives**, including **food and ration drives** as well as **educational support programs**, working with organizations such as **Robin Hood Army (RHA)** and **The Citizens Foundation (TCF)**.   
 
 ## Web is under construction
